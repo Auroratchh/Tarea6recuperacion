@@ -21,7 +21,7 @@ services:
     
 
   nextjs:
-    build: ./evalc1
+    build: ./reports
     container_name: tarea6_web
     ports:
       - "3000:3000"
